@@ -1,0 +1,29 @@
+.carousel-buttons {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgb(38, 117, 186);
+}
+
+.pronext,
+.proprev {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: rgba(67, 67, 144, 0.381);
+}
+
+div .pronext {
+    float: right;
+}
+
+.proprev {
+    float: left;
+}
+
+.pronext:hover,
+.proprev:hover {
+    background-color: #b43838;
+}

@@ -38,6 +38,59 @@ p {
     letter-spacing: 0.05rem;
 }
 
+/* about us icon*/
+
+.about-uss {
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    /* Background color for the About Us section */
+    border-radius: 10px;
+    /* Rounded corners for the section */
+}
+
+.about-uss p {
+    font-size: 16px;
+    /* Adjust the font size to your preference */
+    line-height: 1.6;
+    /* Line height for improved readability */
+    margin: 10px 0;
+    /* Add spacing between paragraphs */
+    color: #333;
+    /* Text color */
+}
+
+
+/* Add a heading style for the "About Us" heading */
+
+.about-uss h2 {
+    font-size: 24px;
+    /* Adjust the font size to your preference */
+    color: #007bff;
+    /* Heading color */
+}
+
+.social-iconss {
+    margin-top: 20px;
+}
+
+.social-iconn {
+    font-size: 24px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    /* Change the color to match your design */
+    transition: color 0.3s ease-in-out;
+}
+
+.social-iconn:hover {
+    color: #007bff;
+    /* Change to your desired hover color */
+}
+
+
+/* end */
+
 
 /* crousal anim */
 
